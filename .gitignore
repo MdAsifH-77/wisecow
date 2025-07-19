@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.log
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Docker
+*.tar
+
+# Test reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Kubernetes
+*.yaml~
+
+# Others
+*.swp
+*.swo
