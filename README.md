@@ -2,7 +2,7 @@
 
 ## 📌 Project Objective
 
-Containerize and deploy the [Wisecow App](https://github.com/nyrahul/wisecow) on **Kubernetes with TLS** and **CI/CD automation**.
+Containerize and deploy the **Kubernetes with TLS** and **CI/CD automation**.
 
 ---
 
